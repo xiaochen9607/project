@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>xiaolianchang_xiaolianchang.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{189,66}}</string>
+                <key>offset</key>
+                <string>{-5,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{189,66}}</string>
+                <key>sourceSize</key>
+                <string>{199,66}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>xiaolianchang.png</string>
+            <key>size</key>
+            <string>{256,256}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:83c73441a39f2ed12549ea25becd5f14:f784c448014d9864bc7aed787c297a0f:11f1b0c485c2c778927dea90d55fff96$</string>
+            <key>textureFileName</key>
+            <string>xiaolianchang.png</string>
+        </dict>
+    </dict>
+</plist>
